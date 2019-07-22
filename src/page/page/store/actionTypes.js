@@ -1,0 +1,1 @@
+export const BTN_CLICK= 'page/BTN_CLICK';
